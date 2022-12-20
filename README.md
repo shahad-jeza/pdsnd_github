@@ -7,7 +7,7 @@
 python bikeshare
 
 ### Description
-a project in programming for data science 
+a project in programming for data science , where you can fillter the data sets interacting with the program
 
 ### Files used
 the data files 
